@@ -6,7 +6,7 @@ package pkg00.helloworld;
 
 /**
  *
- * @author mb212z
+ * @author mb
  */
 public class Helloworld {
 
